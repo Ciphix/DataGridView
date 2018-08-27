@@ -6,7 +6,7 @@ This custom activity is used to display any kind of data in a Windows Form using
 
 This could be used to change data, selected cells and transforming unstructured data to structured data with human assistance, by asking the user to select a cell in the column with a certain type of data.
 
-For a small showcase please see: https://vimeo.com/286331402
+For a small showcase please see: [plotTable showcase](https://vimeo.com/286331402)
 
 **Input**
 These are the input parameters
